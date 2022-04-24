@@ -1,0 +1,5 @@
+D:\Users\tran2\Documents\Visual Studio 2013\TranThiDuyenDe1_QLKTXSV\AppQLKTXSV_TranDuyen\libKTXSV\bin\Debug\libKTXSV.dll
+D:\Users\tran2\Documents\Visual Studio 2013\TranThiDuyenDe1_QLKTXSV\AppQLKTXSV_TranDuyen\libKTXSV\bin\Debug\libKTXSV.pdb
+D:\Users\tran2\Documents\Visual Studio 2013\TranThiDuyenDe1_QLKTXSV\AppQLKTXSV_TranDuyen\libKTXSV\obj\Debug\libKTXSV.csprojResolveAssemblyReference.cache
+D:\Users\tran2\Documents\Visual Studio 2013\TranThiDuyenDe1_QLKTXSV\AppQLKTXSV_TranDuyen\libKTXSV\obj\Debug\libKTXSV.dll
+D:\Users\tran2\Documents\Visual Studio 2013\TranThiDuyenDe1_QLKTXSV\AppQLKTXSV_TranDuyen\libKTXSV\obj\Debug\libKTXSV.pdb
